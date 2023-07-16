@@ -4,4 +4,4 @@ EA Sports FIFA has been my gaming partner ever since I was in class 2, and throu
 
 I have used HTML and CSS for making this project. I have made this new front end project where I have tried to make an EAFC 24 front page which would allow users to view the various editions of EAFC 24 and also shows them the cost which they might need to pay in Steam.
 
-Not just EAFC game, I have also showed the other games (UFC 5, MADDEN NFL 23, F1 23 and NHL 23) with their Steam Prices in the project layout.
+Not just EAFC 24, I have also showed the other games (UFC 5, MADDEN NFL 23, F1 23 and NHL 23) with their Steam Prices in the project layout.
