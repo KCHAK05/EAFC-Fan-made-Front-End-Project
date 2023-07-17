@@ -21,7 +21,7 @@
 }
 
 .logo {
-  background-image: url("E:/My new CSS project/all images/ea-sports-fc-logo.png");
+  background-image: url("all images/ea-sports-fc-logo.png");
   height: 100px;
   width: 100%;
   background-size: cover;
@@ -147,7 +147,7 @@
 
 .main-item-1 {
   height: 3000px;
-  background-image: url("E:/My new CSS project/all images/fifa-bg.jpeg");
+  background-image: url("all images/fifa-bg.jpeg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -177,7 +177,7 @@
   color: #bbb77b;
   height: 350px;
   width: 450px;
-  background-image: url("E:/My new CSS project/all images/game1-bg.jpg");
+  background-image: url("all images/game1-bg.jpg");
   background-position: center;
   background-size: cover;
   border: 6px solid rgb(40, 80, 48);
@@ -195,7 +195,7 @@
   color: #bbb77b;
   height: 350px;
   width: 450px;
-  background-image: url("E:/My new CSS project/all images/game2-bg.jpeg");
+  background-image: url("all images/game2-bg.jpeg");
   background-position: center;
   background-size: cover;
   border: 6px solid rgb(40, 80, 48);
@@ -213,7 +213,7 @@
   color: #bbb89a;
   height: 350px;
   width: 450px;
-  background-image: url("E:/My new CSS project/all images/game3-bg.jpeg");
+  background-image: url("all images/game3-bg.jpeg");
   background-position: center;
   background-size: cover;
   border: 6px solid rgb(40, 80, 48);
@@ -231,7 +231,7 @@
   color: #8f8a46;
   height: 350px;
   width: 450px;
-  background-image: url("E:/My new CSS project/all images/game4-bg.jpeg");
+  background-image: url("all images/game4-bg.jpeg");
   background-position: center;
   background-size: cover;
   border: 6px solid rgb(40, 80, 48);
@@ -249,7 +249,7 @@
   color: #0f0f0d;
   height: 350px;
   width: 450px;
-  background-image: url("E:/My new CSS project/all images/game5-bg.jpeg");
+  background-image: url("all images/game5-bg.jpeg");
   background-position: top;
   background-size: cover;
   border: 6px solid rgb(40, 80, 48);
@@ -267,7 +267,7 @@
   color: #faf9f8;
   height: 350px;
   width: 450px;
-  background-image: url("E:/My new CSS project/all images/game6-bg.jpeg");
+  background-image: url("all images/game6-bg.jpeg");
   background-position: center;
   background-size: cover;
   border: 6px solid rgb(40, 80, 48);
@@ -285,7 +285,7 @@
   color: #7c550d;
   height: 350px;
   width: 450px;
-  background-image: url("E:/My new CSS project/all images/game7-bg.jpeg");
+  background-image: url("all images/game7-bg.jpeg");
   background-position: center;
   background-size: cover;
   border: 6px solid rgb(40, 80, 48);
@@ -303,7 +303,7 @@
   color: #bcc721;
   height: 350px;
   width: 450px;
-  background-image: url("E:/My new CSS project/all images/game8-bg.jpeg");
+  background-image: url("all images/game8-bg.jpeg");
   background-position: center;
   background-size: cover;
   border: 6px solid rgb(40, 80, 48);
@@ -377,7 +377,7 @@
 }
 
 .logo-2 {
-  background-image: url("E:/My new CSS project/all images/ea-sports-fc-logo-2.png");
+  background-image: url("all images/ea-sports-fc-logo-2.png");
   height: 200px;
   width: 100%;
   background-size: cover;
